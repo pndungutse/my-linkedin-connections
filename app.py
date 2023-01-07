@@ -59,7 +59,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dbc.Card([
-                dbc.CardImg(src = '/assets/linkedin-logo2.png')
+                dbc.CardImg(src = 'https://raw.githubusercontent.com/pndungutse/my-linkedin-connections/main/assets/linkedin-logo2.png')
                 ], className='mb-2'),
             dbc.Card([
                 dbc.CardBody([
